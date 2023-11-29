@@ -1,0 +1,10 @@
+@import url("./class.css");
+@import url("../Fonts/FontAwsome.css");
+html,body {
+    margin: unset ;
+}
+body {
+    background-color:#F0F1F3;
+    color: #363434;
+    line-height: 1.8;
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"DisableButton.js","sourceRoot":"","sources":["../../../App/Subscribers/DisableButton.ts"],"names":[],"mappings":"AACA,OAAO,YAAY,MAAM,wCAAwC,CAAC;AAElE,MAAM,aAAc,SAAQ,YAAY;IAC3B,MAAM;QACX,IAAI,CAAC,MAAM,CAAC,QAAQ,GAAG,IAAI,CAAC;IAChC,CAAC;CAEJ;AACD,eAAe,aAAa,CAAC"}

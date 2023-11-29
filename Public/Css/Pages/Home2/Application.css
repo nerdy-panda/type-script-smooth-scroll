@@ -1,0 +1,67 @@
+@import url("../../Lib/bootstrap.css");
+@import url("../../Components/MainNav.css");
+@import url('../../Fonts/vazir-rd-ui.css');
+html,body {
+    font-family: "vazir-rd-ui-regular";
+    height: 100%;
+    clear: both;
+}
+a {
+    color: inherit;
+    text-decoration: unset ;
+}
+nav#main-nav {
+    direction: rtl;
+}
+nav#main-nav ul {
+    margin: unset;
+    list-style: none;
+    min-height: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav#main-nav ul li {
+    margin-left: 5%;
+}
+nav#main-nav ul li:last-child {
+    margin-left: unset;
+}
+nav#main-nav ul li a {
+    color: #748398 ;
+    background-color: #f7f7f8de;
+    padding: 12px 20px;
+    border-radius: 10px;
+    transition:  background 150ms linear  ;
+}
+nav#main-nav ul li a:hover {
+    cursor: pointer ;
+    background: rgb(240 241 243 / 70%) ;
+}
+main#root {
+    min-height: 100%;
+}
+.sections {
+    color: white;
+}
+#slider {
+    background: #2f3542;
+    height: 60% !important;
+    margin-top: 75px;
+}
+#about-us {
+    height: 400px;
+    background-color: #272727;
+}
+#services-us {
+    background-color: #028966;
+    height: 450px;
+}
+#contact-us {
+    background-color: #5067e3;
+    height: 350px;
+}
+#main-footer {
+    background: red;
+    height: 450px;
+}
